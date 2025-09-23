@@ -29,7 +29,8 @@ I specialize in turning complex workflows into simple, scalable solutions.
 <h3 align="left">Languages and Tools:</h3>
 
 - Python
-- DAX
+- Power Query
+- Power BI + DAX
 - VBA
 - Pandas
 - Matplotlib
