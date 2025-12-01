@@ -1,10 +1,10 @@
-<h1 align="left">Hi 👋, I'm Kevin Burke</h1>
+<h1 align="left">Hi , I'm Kevin Burke</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kburke119&label=Profile%20views&color=0e75b6&style=flat" alt="kburke119" /> </p>
 
-- 🌱 **Rutgers University Data Science Graduate**
+- **Rutgers University Data Science Graduate**
 
-- 📫 Contact me through email: **kburke119@gmail.com**
+- Contact me through email: **kburke119@gmail.com**
 
 
 
@@ -12,13 +12,13 @@ I build data-driven tools that blend automation, analytics, and AI into real bus
 From LLM-powered apps and marketing automation pipelines to Power BI storytelling dashboards,  
 I specialize in turning complex workflows into simple, scalable solutions.  
 
-🚀 Projects:  
+Projects:  
 - AI-driven email & CRM automation (Replit + SFMC + Alteryx)  
 - “Just Buy Nothing” – gamified anti-shopping web app  
 - Power BI dashboards integrating APIs, SQL, and Python  
 - Raspberry Pi automation experiments (voice assistants, web scrapers)  
 
-💡 My focus: using AI + automation to remove friction, uncover insights, and make tech more human.  
+My focus: using AI + automation to remove friction, uncover insights, and make tech more human.  
 
 
 <h3 align="left">Connect with me:</h3>
